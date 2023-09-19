@@ -1,0 +1,10 @@
+
+
+# File types
+*.class
+*.settings
+*.project
+
+vendor/
+
+
